@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: linear-gradient(to right, rgba(7, 27, 82, 1) 0% ,rgba(0, 128, 128, 1) 100%);
+  }
+
+  .title
+  {
+      font-weight: 1000;
+      font-size: 34px;
+      font-family: serif;
+      color: black;
+    }
+
+.Card{
+    background-color: #C0F051;
+    margin: 10px;
+    border-radius: 15%;
+}
